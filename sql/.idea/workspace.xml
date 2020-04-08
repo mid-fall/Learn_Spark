@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e2866534-c2d0-473e-995b-e196339a7b80" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZWVodBsoMJAZ4YaelH5VDOfrSA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="CsvDs" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="wang.doug.spark.sql.CsvDs" />
+      <module name="sql (2)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wang.doug.spark.sql.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CsvDs" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2866534-c2d0-473e-995b-e196339a7b80" name="Default Changelist" comment="" />
+      <created>1584955012708</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584955012708</updated>
+      <workItem from="1584955015366" duration="372000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="771" y="476" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1584955068246">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="771" y="476" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1584955068246" />
+    <state width="2005" height="305" key="GridCell.Tab.0.bottom" timestamp="1584955387551">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="305" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1584955387551" />
+    <state width="2005" height="305" key="GridCell.Tab.0.center" timestamp="1584955387551">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="305" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1584955387551" />
+    <state width="2005" height="305" key="GridCell.Tab.0.left" timestamp="1584955387551">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="305" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1584955387551" />
+    <state width="2005" height="305" key="GridCell.Tab.0.right" timestamp="1584955387551">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="305" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1584955387551" />
+  </component>
+</project>

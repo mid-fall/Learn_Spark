@@ -2,6 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a6e1b940-7cf6-438f-bb45-229bfc53524f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../sparkGraphWork/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkGraphWork/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkGraphWork/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkGraphWork/.idea/scala_compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkGraphWork/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkGraphWork/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkGraphWork/sparkGraphWork.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkGraphWork/src/main/scala/MapGraphX.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkGraphWork/src/main/scala/SimpleGraphX.scala" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +70,7 @@
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager" selected="Application.ReadWithKafka2">
     <configuration name="JDBCTest" type="Application" factoryName="Application" temporary="true">
@@ -162,6 +172,8 @@
       <workItem from="1585763850278" duration="23000" />
       <workItem from="1585846212903" duration="17000" />
       <workItem from="1586336242895" duration="216000" />
+      <workItem from="1586339552997" duration="9000" />
+      <workItem from="1586339574275" duration="33000" />
     </task>
     <servers />
   </component>
@@ -206,19 +218,23 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state width="1354" height="183" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1585758879557" />
-    <state x="723" y="387" key="com.intellij.ide.util.TipDialog" timestamp="1586336242810">
+    <state x="544" y="206" key="SettingsEditor" timestamp="1586339584732">
+      <screen x="0" y="0" width="2065" height="1122" />
+    </state>
+    <state x="544" y="206" key="SettingsEditor/0.0.2065.1122@0.0.2065.1122" timestamp="1586339584732" />
+    <state x="723" y="387" key="com.intellij.ide.util.TipDialog" timestamp="1586339574440">
       <screen x="0" y="0" width="2065" height="1122" />
     </state>
     <state x="717" y="384" key="com.intellij.ide.util.TipDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1585763850143" />
-    <state x="723" y="387" key="com.intellij.ide.util.TipDialog/0.0.2065.1122@0.0.2065.1122" timestamp="1586336242810" />
+    <state x="723" y="387" key="com.intellij.ide.util.TipDialog/0.0.2065.1122@0.0.2065.1122" timestamp="1586339574440" />
     <state x="423" y="85" width="1368" height="971" key="dock-window-1" timestamp="1585737727266">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="423" y="85" width="1368" height="971" key="dock-window-1/0.0.2048.1112@0.0.2048.1112" timestamp="1585737727266" />
-    <state x="784" y="223" key="new project wizard" timestamp="1586336456560">
+    <state x="784" y="223" key="new project wizard" timestamp="1586339605113">
       <screen x="0" y="0" width="2065" height="1122" />
     </state>
     <state x="434" y="260" key="new project wizard/0.0.2048.1112@0.0.2048.1112" timestamp="1585554257645" />
-    <state x="784" y="223" key="new project wizard/0.0.2065.1122@0.0.2065.1122" timestamp="1586336456560" />
+    <state x="784" y="223" key="new project wizard/0.0.2065.1122@0.0.2065.1122" timestamp="1586339605113" />
   </component>
 </project>
