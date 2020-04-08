@@ -10,6 +10,7 @@ object exec1_base {
     // 创建 spark 上下文
     val spark_conf = new SparkConf().setAppName("base").setMaster("local[*]")
     val sc = new SparkContext(spark_conf)
+
     // 创建顶点 RDD
     val vertices_user: RDD[(VertexId, (String, Int))] = sc.parallelize(Array(
       (1L, ("Alice", 28)),
