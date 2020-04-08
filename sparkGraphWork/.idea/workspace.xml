@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="05d5fadb-e09d-4e97-aee3-be18b805d0de" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Maven\repository" />
+        <option name="mavenHome" value="D:/Maven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\Maven\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1aFfyNi7icU235BaQx1M6CYCk9C" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/scala" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\intellijFile\sparkGraphWork\src\main\scala" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="SimpleGraphX" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="SimpleGraphX" />
+      <module name="sparkGraphWork" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="showServicesTree" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05d5fadb-e09d-4e97-aee3-be18b805d0de" name="Default Changelist" comment="" />
+      <created>1586336515547</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586336515547</updated>
+      <workItem from="1586336519545" duration="1118000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="713" y="346" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1586337522537">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="713" y="346" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.0.1536.864@0.0.1536.864" timestamp="1586337522537" />
+    <state x="933" y="187" key="FileChooserDialogImpl" timestamp="1586336675464">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="933" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1586336675464" />
+    <state width="1094" height="221" key="GridCell.Tab.0.bottom" timestamp="1586337535982">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1094" height="221" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1586337535982" />
+    <state width="1094" height="221" key="GridCell.Tab.0.center" timestamp="1586337535982">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1094" height="221" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1586337535982" />
+    <state width="1094" height="221" key="GridCell.Tab.0.left" timestamp="1586337535981">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1094" height="221" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1586337535981" />
+    <state width="1094" height="221" key="GridCell.Tab.0.right" timestamp="1586337535982">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1094" height="221" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1586337535982" />
+  </component>
+</project>
