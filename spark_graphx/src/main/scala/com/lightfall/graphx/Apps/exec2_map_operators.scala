@@ -6,7 +6,7 @@ import org.apache.spark.graphx._
 
 // GraphX 的 Map 操作练习
 
-object exec2_map_operator {
+object exec2_map_operators {
   def main(args: Array[String]): Unit = {
     // 创建 spark 上下文
     val spark_conf = new SparkConf().setAppName("MapOperator").setMaster("local[*]")
