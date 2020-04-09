@@ -11,6 +11,7 @@ object exec2_map_operators {
     // 创建 spark 上下文
     val spark_conf = new SparkConf().setAppName("MapOperator").setMaster("local[*]")
     val sc = new SparkContext(spark_conf)
+    sc.setLogLevel("WARN")
 
     // 创建顶点 RDD
     val vertices_user: RDD[(VertexId, (String, Int))] = sc.parallelize(Array(
@@ -74,5 +75,8 @@ object exec2_map_operators {
     // 打印
     println("三元组新增属性：")
     new_triplet_graph.triplets.foreach(println)
+
+    // 终止程序
+    sc.stop()
   }
 }

@@ -10,6 +10,7 @@ object exec1_base {
     // 创建 spark 上下文
     val spark_conf = new SparkConf().setAppName("base").setMaster("local[*]")
     val sc = new SparkContext(spark_conf)
+    sc.setLogLevel("WARN")
 
     // 创建顶点 RDD
     val vertices_user: RDD[(VertexId, (String, Int))] = sc.parallelize(Array(
@@ -70,5 +71,8 @@ object exec1_base {
     val max_degree = graph.degrees.reduce(MaxOf2Vertices)._2
     println("最大度数为：" + max_degree)
     println("----------------------------------")
+
+    // 终止程序
+    sc.stop()
   }
 }

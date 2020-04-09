@@ -9,6 +9,7 @@ object exec3_structural_operators {
     // 创建 spark 上下文
     val spark_conf = new SparkConf().setAppName("MapOperator").setMaster("local[*]")
     val sc = new SparkContext(spark_conf)
+    sc.setLogLevel("WARN")
 
     // 创建顶点 RDD
     val vertices_user: RDD[(VertexId, (String, Int))] = sc.parallelize(Array(
@@ -73,10 +74,62 @@ object exec3_structural_operators {
     val result_graph = graph.mask(graph2)
     println("----------------------------------------------------")
     println("mask 结果：")
-    println("结果顶点集：")
+    println("mask 结果顶点集：")
     result_graph.vertices.collect.foreach(println)
-    println("结果边集：")
+    println("mask 结果边集：")
     result_graph.edges.collect.foreach(println)
     println("----------------------------------------------------")
+
+    // 2. subgraph 练习
+    val valid_graph = graph.subgraph(vpred = (vertex_id, attr) => attr._2 > 40, epred = et => et.attr < 5)
+    println("subgraph 结果：")
+    println("subgraph 结果顶点集：")
+    valid_graph.vertices.collect.foreach(println)
+    println("subgraph 结果边集：")
+    valid_graph.edges.collect.foreach(println)
+    println("----------------------------------------------------")
+
+    //3. reverse 练习
+    val reverse_graph = graph.reverse
+    println("reverse 结果：")
+    println("reverse 结果顶点集：")
+    reverse_graph.vertices.collect.foreach(println)
+    println("reverse 结果边集：")
+    reverse_graph.edges.collect.foreach(println)
+    println("----------------------------------------------------")
+
+    //4. groupEdges 练习
+    // 创建一个有多重连接相同 id 顶点的边的图 graph3
+    val group_vertices_user: RDD[(VertexId, Int)] = sc.parallelize(Array(
+      (1L, 0),
+      (2L, 0),
+      (3L, 0)
+    ))
+
+    // 创建边 RDD
+    val group_edges_relationship: RDD[Edge[Int]] = sc.parallelize(Array(
+      Edge(1L, 2L, 3),
+      Edge(1L, 2L, 4),
+      Edge(1L, 2L, 5),
+      Edge(2L, 3L, 3),
+      Edge(2L, 3L, 4),
+      Edge(1L, 3L, 2)
+    ))
+
+    val group_default_vertex_user = (-1)
+
+    val graph3 = Graph(group_vertices_user, group_edges_relationship, group_default_vertex_user)
+    val group_graph = graph3.groupEdges(merge = (left, right) => (left+right))
+
+    // 打印结果
+    println("groupEdges 结果：")
+    println("groupEdges 结果顶点集：")
+    group_graph.vertices.collect.foreach(println)
+    println("groupEdges 结果边集：")
+    group_graph.edges.collect.foreach(println)
+    println("----------------------------------------------------")
+
+    // 终止程序
+    sc.stop()
   }
 }
