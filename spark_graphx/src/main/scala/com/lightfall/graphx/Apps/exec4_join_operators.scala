@@ -45,6 +45,10 @@ object exec4_join_operators {
     // 供 join 使用的 rdd, 单数 id 的顶点 age 加 1，反之不变
     val join_rdd: RDD[(VertexId, Boolean)] = sc.parallelize(Array((1L, true), (2L, false), (3L, true), (4L, false), (5L, true), (6L, false)))
 
+    // 0. vertexRDD.join 操作
+    println("join 后：")
+    val join_vertices = graph.vertices.join(join_rdd)
+    join_vertices.collect.foreach(println)
     // 1. joinVertices 操作
     val joined_graph = graph.joinVertices(join_rdd)((vertex_id, attr, is_incr) => if(is_incr) (attr._1, attr._2+1) else (attr._1, attr._2))
     // 打印 join 完成后的结果

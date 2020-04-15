@@ -4,6 +4,9 @@ import org.apache.spark._
 import org.apache.spark.graphx._
 import org.apache.spark.rdd.RDD
 
+/**
+ * eg1：统计粉丝年龄
+ */
 object exec5_aggregate_operators {
   def main(args: Array[String]): Unit = {
     // 创建 spark 上下文
@@ -39,20 +42,22 @@ object exec5_aggregate_operators {
 
     val graph = Graph(vertices_user, edges_relationship, default_vertex_user)
 
-    // eg1：统计粉丝数
     // 定义 SendMsg 方法
     // 如果 dst 的 age 大于 src 的 age，就代表是粉丝，将它的年龄发送给 dst
-    def SendMsg(edge_context: EdgeContext[Double, Int, Double]): Unit = {
+    def SendMsg(edge_context: EdgeContext[Double, Int, (Int, Double)]): Unit = {
       if(edge_context.dstAttr > edge_context.srcAttr) {
-        edge_context.sendToDst(edge_context.srcAttr)
+        edge_context.sendToDst((1, edge_context.srcAttr))
       }
     }
 
     // 使用 aggregateMessages 方法来统计粉丝数
-    val older_followers: VertexRDD[Double] = graph.aggregateMessages[Double](SendMsg, _+_)
+    val older_followers: VertexRDD[(Int, Double)] = graph.aggregateMessages[(Int, Double)](SendMsg, (a, b) => (a._1+b._1, a._2+b._2))
 
-    older_followers.collect.foreach(println)
+    val avarage_followers = older_followers.map{case (vertex_id, (num, age)) => (age/num)}
+
+    avarage_followers.collect.foreach(println)
 
     sc.stop()
   }
 }
+
