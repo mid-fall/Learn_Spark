@@ -15,16 +15,6 @@ object exec6_aggregate_operators_2 {
     math.max(a,b)
   }
 
-  def matchCells(a:Array[Int] , b:Array[Int]) = {
-    var sum = 0
-    for(x <- a){
-      if(a.exists({ y => y == x })){
-        sum += 1
-      }
-    }
-    sum
-  }
-
   def sumEdgeCount( g:Graph[Int,String]):Graph[Int,String] = {
 
     val record = g.vertices.map(x => x._2).collect.toList
