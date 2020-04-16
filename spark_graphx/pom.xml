@@ -6,6 +6,7 @@
 
     <groupId>com.lightfall</groupId>
     <artifactId>spark_graphx</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
 
     <properties>

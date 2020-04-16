@@ -49,11 +49,9 @@ object exec6_aggregate_operators_2 {
 
     val initGraph = myGraph.mapVertices((_,_)=>0)
 
-    sumEdgeCount(initGraph).vertices.collect.foreach(println(_))
     println("result------------------------------------------------")
-
-
-
+    sumEdgeCount(initGraph).vertices.collect.foreach(println(_))
+    println("------------------------------------------------------")
   }
 
 }

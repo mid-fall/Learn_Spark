@@ -1,7 +1,7 @@
-package com.lightfall.GraphX
+package com.lightfall.GraphXLab
 
-import org.apache.spark.{SparkConf, SparkContext, graphx}
-import org.apache.spark.graphx.{Edge, EdgeContext, Graph, VertexRDD}
+import org.apache.spark.graphx.{Edge, EdgeContext, Graph}
+import org.apache.spark.{SparkConf, SparkContext}
 
 object lab1_compute_max_distance {
   def sendMsg(ec:EdgeContext[Int,String,Int]):Unit = {
