@@ -10,7 +10,7 @@ import org.apache.spark.streaming.{Seconds, StreamingContext}
 import scala.collection.mutable
 import com.lightfall.Utils.KafkaOffsetZKManager
 
-object ReadWithKafka2 {
+object ReadWithKafka {
   def main(args: Array[String]): Unit = {
     // 1. 获取上下文对象
     val conf = new SparkConf().setMaster("local[2]").setAppName("kafkaSparkStreaming2")

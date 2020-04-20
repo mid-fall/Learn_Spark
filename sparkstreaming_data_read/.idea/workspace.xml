@@ -2,16 +2,73 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a6e1b940-7cf6-438f-bb45-229bfc53524f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../sparkGraphWork/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkGraphWork/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkGraphWork/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkGraphWork/.idea/scala_compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkGraphWork/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkGraphWork/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkGraphWork/sparkGraphWork.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkGraphWork/src/main/scala/MapGraphX.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkGraphWork/src/main/scala/SimpleGraphX.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exp2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exp2/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exp2/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exp2/.idea/exp2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exp2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exp2/.idea/scala_compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exp2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exp2/exp2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exp2/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exp2/src/main/scala/com/lightfall/AreaSum.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exp2/src/main/scala/com/lightfall/IPUtils.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exp2/src/main/scala/com/lightfall/MySQLUtils.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exp2/target/classes/com/lightfall/AreaSum$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exp2/target/classes/com/lightfall/AreaSum$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exp2/target/classes/com/lightfall/AreaSum$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exp2/target/classes/com/lightfall/AreaSum$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exp2/target/classes/com/lightfall/AreaSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exp2/target/classes/com/lightfall/IPUtils$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exp2/target/classes/com/lightfall/IPUtils$$anonfun$ip2Long$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exp2/target/classes/com/lightfall/IPUtils$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exp2/target/classes/com/lightfall/IPUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exp2/target/classes/com/lightfall/MySQLUtils$$anonfun$save$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exp2/target/classes/com/lightfall/MySQLUtils$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exp2/target/classes/com/lightfall/MySQLUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spark_lab/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spark_lab/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spark_lab/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spark_lab/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spark_lab/.idea/libraries/scala_sdk_2_11_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spark_lab/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spark_lab/.idea/scala_compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spark_lab/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spark_lab/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spark_lab/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spark_lab/graphx_lab/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spark_lab/graphx_lab/src/main/scala/com/lightfall/GraphXLab/lab1_compute_max_distance.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spark_lab/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spark_lab/spark_lab.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/lightfall/Apps/ReadWithKafka.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/lightfall/Apps/ReadWithKafka.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/lightfall/Apps/ReadWithKafka2.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lightfall/Apps/ReadWithKafka2$$anonfun$main$1$$anonfun$apply$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lightfall/Apps/ReadWithKafka2$$anonfun$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lightfall/Apps/ReadWithKafka2$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lightfall/Apps/ReadWithKafka2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sql/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sql/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sql/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sql/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sql/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sql/dependency-reduced-pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sql/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sql/sql (1).iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sql/sql (2).iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sql/src/main/resources/hive-site.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sql/src/main/scala/wang/doug/spark/sql/CsvDs.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sql/src/main/scala/wang/doug/spark/sql/Hive.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sql/src/main/scala/wang/doug/spark/sql/JdbcDs.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sql/src/main/scala/wang/doug/spark/sql/JsonDs.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sql/src/main/scala/wang/doug/spark/sql/ScoreLevel.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sql/src/main/scala/wang/doug/spark/sql/Student.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sql/src/main/scala/wang/doug/spark/sql/Student2.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sql/src/main/scala/wang/doug/spark/sql/StudentScore.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sql/src/main/scala/wang/doug/spark/sql/StudentScore2.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sql/src/main/scala/wang/doug/spark/sql/WordCount.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sql/src/main/scala/wang/doug/spark/sql/Write.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sql/target/classes/hive-site.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,16 +120,17 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../exp2/pom.xml" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.ReadWithKafka2">
+  <component name="RunManager" selected="Application.ReadWithKafka (1)">
     <configuration name="JDBCTest" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.lightfall.Utils.JDBCTest" />
       <module name="sparkstreaming_data_read" />
@@ -113,7 +171,7 @@
       </method>
     </configuration>
     <configuration name="ReadWithKafka2" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.lightfall.Apps.ReadWithKafka2" />
+      <option name="MAIN_CLASS_NAME" value="com.lightfall.Apps.ReadWithKafka" />
       <module name="sparkstreaming_data_read" />
       <extension name="coverage">
         <pattern>
@@ -140,9 +198,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReadWithKafka (1)" />
         <item itemvalue="Application.ReadWithKafka2" />
         <item itemvalue="Application.JDBCTest" />
-        <item itemvalue="Application.ReadWithKafka (1)" />
         <item itemvalue="Application.ReadWithSocket (1)" />
         <item itemvalue="Application.ReadWithKafka" />
       </list>
@@ -174,6 +232,7 @@
       <workItem from="1586336242895" duration="216000" />
       <workItem from="1586339552997" duration="9000" />
       <workItem from="1586339574275" duration="33000" />
+      <workItem from="1587376195709" duration="377000" />
     </task>
     <servers />
   </component>
@@ -189,35 +248,40 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="577" y="206" key="#Vim_Emulation/0.0.2048.1112@0.0.2048.1112" timestamp="1585659607329" />
-    <state x="1154" y="476" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1585554075966">
-      <screen x="0" y="0" width="2048" height="1112" />
+    <state x="1164" y="480" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1587376205367">
+      <screen x="0" y="0" width="2065" height="1122" />
     </state>
     <state x="1154" y="476" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1585554075966" />
+    <state x="1164" y="480" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.0.2065.1122@0.0.2065.1122" timestamp="1587376205367" />
     <state x="620" y="230" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1585187558577">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="620" y="230" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1585187558577" />
-    <state x="1328" y="320" key="FileChooserDialogImpl" timestamp="1586336370193">
+    <state x="1328" y="320" key="FileChooserDialogImpl" timestamp="1587376391705">
       <screen x="0" y="0" width="2065" height="1122" />
     </state>
     <state x="1317" y="317" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1585554205486" />
-    <state x="1328" y="320" key="FileChooserDialogImpl/0.0.2065.1122@0.0.2065.1122" timestamp="1586336370193" />
-    <state width="1354" height="183" key="GridCell.Tab.0.bottom" timestamp="1585758879557">
-      <screen x="0" y="0" width="2048" height="1112" />
+    <state x="1328" y="320" key="FileChooserDialogImpl/0.0.2065.1122@0.0.2065.1122" timestamp="1587376391705" />
+    <state width="2023" height="640" key="GridCell.Tab.0.bottom" timestamp="1587376572913">
+      <screen x="0" y="0" width="2065" height="1122" />
     </state>
     <state width="1354" height="183" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1585758879557" />
-    <state width="1354" height="183" key="GridCell.Tab.0.center" timestamp="1585758879557">
-      <screen x="0" y="0" width="2048" height="1112" />
+    <state width="2023" height="640" key="GridCell.Tab.0.bottom/0.0.2065.1122@0.0.2065.1122" timestamp="1587376572913" />
+    <state width="2023" height="640" key="GridCell.Tab.0.center" timestamp="1587376572913">
+      <screen x="0" y="0" width="2065" height="1122" />
     </state>
     <state width="1354" height="183" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1585758879557" />
-    <state width="1354" height="183" key="GridCell.Tab.0.left" timestamp="1585758879557">
-      <screen x="0" y="0" width="2048" height="1112" />
+    <state width="2023" height="640" key="GridCell.Tab.0.center/0.0.2065.1122@0.0.2065.1122" timestamp="1587376572913" />
+    <state width="2023" height="640" key="GridCell.Tab.0.left" timestamp="1587376572913">
+      <screen x="0" y="0" width="2065" height="1122" />
     </state>
     <state width="1354" height="183" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1585758879557" />
-    <state width="1354" height="183" key="GridCell.Tab.0.right" timestamp="1585758879557">
-      <screen x="0" y="0" width="2048" height="1112" />
+    <state width="2023" height="640" key="GridCell.Tab.0.left/0.0.2065.1122@0.0.2065.1122" timestamp="1587376572913" />
+    <state width="2023" height="640" key="GridCell.Tab.0.right" timestamp="1587376572913">
+      <screen x="0" y="0" width="2065" height="1122" />
     </state>
     <state width="1354" height="183" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1585758879557" />
+    <state width="2023" height="640" key="GridCell.Tab.0.right/0.0.2065.1122@0.0.2065.1122" timestamp="1587376572913" />
     <state x="544" y="206" key="SettingsEditor" timestamp="1586339584732">
       <screen x="0" y="0" width="2065" height="1122" />
     </state>
