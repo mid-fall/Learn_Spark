@@ -4,7 +4,7 @@
 
 ## 目录
 
-### `graphx_lab`
+### [`graphx_lab`](https://gitee.com/lightfall/SparkLab/tree/master/graphx_lab)
 
 是 graphx 的大作业
 
