@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a6e1b940-7cf6-438f-bb45-229bfc53524f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +59,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spark_base/pom.xml" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -170,6 +169,7 @@
       <workItem from="1586339574275" duration="33000" />
       <workItem from="1587376195709" duration="377000" />
       <workItem from="1587547663679" duration="283000" />
+      <workItem from="1587890569938" duration="394000" />
     </task>
     <servers />
   </component>
@@ -194,11 +194,11 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="620" y="230" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1585187558577" />
-    <state x="1328" y="320" key="FileChooserDialogImpl" timestamp="1587376391705">
+    <state x="1328" y="320" key="FileChooserDialogImpl" timestamp="1587890961016">
       <screen x="0" y="0" width="2065" height="1122" />
     </state>
     <state x="1317" y="317" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1585554205486" />
-    <state x="1328" y="320" key="FileChooserDialogImpl/0.0.2065.1122@0.0.2065.1122" timestamp="1587376391705" />
+    <state x="1328" y="320" key="FileChooserDialogImpl/0.0.2065.1122@0.0.2065.1122" timestamp="1587890961016" />
     <state width="2023" height="640" key="GridCell.Tab.0.bottom" timestamp="1587376572913">
       <screen x="0" y="0" width="2065" height="1122" />
     </state>
@@ -223,19 +223,19 @@
       <screen x="0" y="0" width="2065" height="1122" />
     </state>
     <state x="544" y="206" key="SettingsEditor/0.0.2065.1122@0.0.2065.1122" timestamp="1586339584732" />
-    <state x="723" y="387" key="com.intellij.ide.util.TipDialog" timestamp="1586339574440">
+    <state x="723" y="387" key="com.intellij.ide.util.TipDialog" timestamp="1587890570171">
       <screen x="0" y="0" width="2065" height="1122" />
     </state>
     <state x="717" y="384" key="com.intellij.ide.util.TipDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1585763850143" />
-    <state x="723" y="387" key="com.intellij.ide.util.TipDialog/0.0.2065.1122@0.0.2065.1122" timestamp="1586339574440" />
+    <state x="723" y="387" key="com.intellij.ide.util.TipDialog/0.0.2065.1122@0.0.2065.1122" timestamp="1587890570171" />
     <state x="423" y="85" width="1368" height="971" key="dock-window-1" timestamp="1585737727266">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="423" y="85" width="1368" height="971" key="dock-window-1/0.0.2048.1112@0.0.2048.1112" timestamp="1585737727266" />
-    <state x="784" y="223" key="new project wizard" timestamp="1587547874259">
+    <state x="784" y="223" key="new project wizard" timestamp="1587890610035">
       <screen x="0" y="0" width="2065" height="1122" />
     </state>
     <state x="434" y="260" key="new project wizard/0.0.2048.1112@0.0.2048.1112" timestamp="1585554257645" />
-    <state x="784" y="223" key="new project wizard/0.0.2065.1122@0.0.2065.1122" timestamp="1587547874259" />
+    <state x="784" y="223" key="new project wizard/0.0.2065.1122@0.0.2065.1122" timestamp="1587890610035" />
   </component>
 </project>
