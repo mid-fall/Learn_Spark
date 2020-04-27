@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92280af8-e20b-4697-9f66-6a5a9bff149e" name="Default Changelist" comment="" />
+    <list default="true" id="92280af8-e20b-4697-9f66-6a5a9bff149e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/spark_sql.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +15,16 @@
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Package Object" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -21,6 +37,7 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1b4TxDF1nO0Eyjij6OgIF8SjGlM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -28,6 +45,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
@@ -81,6 +99,7 @@
       <updated>1587890610412</updated>
       <workItem from="1587890638122" duration="6092000" />
       <workItem from="1587896816353" duration="209000" />
+      <workItem from="1587973991796" duration="908000" />
     </task>
     <servers />
   </component>
@@ -96,6 +115,10 @@
       <screen x="0" y="0" width="2065" height="1122" />
     </state>
     <state x="724" y="345" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.2065.1122@0.0.2065.1122" timestamp="1587896832780" />
+    <state x="651" y="542" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1587973997880">
+      <screen x="0" y="0" width="2065" height="1122" />
+    </state>
+    <state x="651" y="542" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.0.2065.1122@0.0.2065.1122" timestamp="1587973997880" />
     <state width="1472" height="171" key="GridCell.Tab.0.bottom" timestamp="1587897025017">
       <screen x="0" y="0" width="2065" height="1122" />
     </state>
@@ -116,5 +139,9 @@
       <screen x="0" y="0" width="2065" height="1122" />
     </state>
     <state x="499" y="167" width="1145" height="844" key="SettingsEditor/0.0.2065.1122@0.0.2065.1122" timestamp="1587890753230" />
+    <state x="594" y="450" key="com.intellij.ide.util.TipDialog" timestamp="1587973991854">
+      <screen x="0" y="0" width="2065" height="1122" />
+    </state>
+    <state x="594" y="450" key="com.intellij.ide.util.TipDialog/0.0.2065.1122@0.0.2065.1122" timestamp="1587973991854" />
   </component>
 </project>
