@@ -5,8 +5,8 @@ Spark 学习的练习以及大作业。
 - [spark_base](https://gitee.com/lightfall/Learn_Spark/tree/master/spark_base) 是基础的一个小练习
 - [sparkstreaming_data_read](https://gitee.com/lightfall/Learn_Spark/tree/master/sparkstreaming_data_read) 是 sparkstreaming 读取数据的各种方式的练习
 - [spark_graphx](https://gitee.com/lightfall/Learn_Spark/tree/master/spark_graphx) 是有关 GraphX 的练习
+- [spark_sql](https://gitee.com/lightfall/Learn_Spark/tree/master/spark_sql) 是 Spark Sql 的一些练习
 
-练习和大作业放在一起，点击下面跳转：
 
 ## 大作业
 
